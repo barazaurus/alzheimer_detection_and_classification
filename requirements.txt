@@ -1,0 +1,21 @@
+# Core Deep Learning and Scientific Computing
+tensorflow==2.15.0
+keras==2.15.0
+numpy==1.26.3
+pandas==2.2.1
+
+# Image Processing
+Pillow==10.2.0
+matplotlib==3.8.3
+
+# Scientific Computing and Machine Learning
+scikit-learn==1.4.1.post1
+
+# Optional: For additional data visualization (if needed)
+seaborn==0.13.2
+
+# Specific version of Python recommended
+# python==3.8.10
+
+# Additional dependencies that might be used
+papaparse==0.9.2
